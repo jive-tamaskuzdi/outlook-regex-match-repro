@@ -1,6 +1,6 @@
 # About
 
-This is a reproduction repo for issue https://github.com/OfficeDev/office-js/issues/1088
+This is a reproduction repo for issue https://github.com/OfficeDev/office-js/issues/1086
 
 # Steps to reproduce
 
